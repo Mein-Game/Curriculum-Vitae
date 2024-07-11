@@ -1,0 +1,12 @@
+ChannelA:
+  Range: 7
+  Coupling: 1 # 0= AC, 1 = DC
+
+ChannelB:
+  Range: 7
+  Coupling: 0 # 0= AC, 1 = DC
+
+Extra:
+  pretriggersamples: 1000
+  posttriggersamples: 1000
+  timebase: 8
