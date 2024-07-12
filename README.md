@@ -15,7 +15,7 @@ GUI during operation with channel input:
 ![Screenshot 2024-06-28 132906](https://github.com/Mein-Game/Curriculum-Vitae/assets/175217922/5b8a11fd-edca-4544-b568-8b1ac539e2aa)
 
 
-# Model Rocket Development and Launch
+# Model Rocket Project
 As part of the "Introduction to Aerospace Engineering" module, our team undertook a project to design, build, and launch a model rocket. This hands-on project provided practical experience with fundamental aerospace engineering principles such as aerodynamics, propulsion, and flight mechanics.
 
 The project commenced with the design phase, where we developed a detailed conceptual design. This involved selecting materials for the rocket body, fins, and nose cone, conducting computational simulations to optimize aerodynamic efficiency, and performing structural integrity analyses to ensure durability during launch and flight. We also created a Graphical User Interface (GUI) to visualize and analyze the effects of different rocket configurations, enabling us to make data-driven decisions during the design process.
